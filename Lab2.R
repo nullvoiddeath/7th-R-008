@@ -1,0 +1,10 @@
+list.files()
+getwd()
+setwd
+help.start()
+find('plot')
+demo(graphics)
+library("spatial")
+example(lm)
+example(mean)
+?plot
